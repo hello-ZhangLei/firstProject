@@ -1,0 +1,90 @@
+.about{
+    box-sizing: border-box !important;
+}
+.about-top-bg{
+    width:100%;
+    height:548px;
+    background: url("../img/images/about_banner.png") no-repeat center center;
+}
+.abouts{
+    width:100%;
+    padding:55px 0 80px 0;
+}
+.abouts-detail img{
+    display: block;
+    width:338px;
+    height:80px;
+    margin:0 auto 30px;
+}
+.abouts-detail p{
+    font-size: 14px;
+    line-height: 20px;
+    color:#333;
+    margin:10px;
+}
+.equipment{
+    background:#f2f2f2;
+    padding:50px 0;
+}
+.about-equ>img{
+    display: block;
+    margin:0 auto 50px;
+}
+.equ-img-list{
+    margin:0 22px;
+}
+.equ-img-list img{
+    margin:0 3px 20px;
+}
+.history{
+    padding-top:60px;
+}
+.history img{
+    display: block;
+    margin:0 auto 30px;
+}
+.history-detail{
+    width:100%;
+    height:1000px;
+    background:url("../img/images/my_action_bg.png") no-repeat center center;
+}
+.history-list:after{
+    display: block;
+    content: "";
+    clear: both;
+}
+.history-list{
+    box-sizing: border-box;
+    padding:70px 90px 0;
+}
+.history-detail span{
+    display: block;
+    font-size: 18px;
+    color: #333;
+    width:450px;
+    height:60px;
+    float:left;
+    margin:0 20px 35px 10px;
+}
+span.history-detail-right{
+    text-align: right;
+}
+span.history-detail-left{
+    margin-left:70px;
+    margin-right:0;
+}
+.jobs{
+    padding:20px 0 40px;
+}
+.jobs img{
+    display: block;
+    margin:0 auto 30px;
+}
+.jobs-detail>p{
+    font-size: 16px;
+    color:#555;
+    line-height: 20px;
+    margin:10px;
+    text-align: center;
+}
+

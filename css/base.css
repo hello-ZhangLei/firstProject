@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-weight: normal;
+    list-style: none;
+}
+table {
+    max-width: 100%;
+    border-collapse: collapse;/*边框合并*/
+}
+a:link{
+    text-decoration: none;
+}
+.contain{
+    margin:0 auto;
+    width:1190px !important;
+}
+.my_small{
+    font-size: 12px;
+    /*font-family: Microsoft YaHei, Arial, Helvetica, sans-serif;*/
+}
