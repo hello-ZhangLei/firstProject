@@ -1,2 +1,2 @@
-# firstProject
+# htmlProject
 My personal profile
